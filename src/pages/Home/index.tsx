@@ -1,5 +1,7 @@
+import SimpleCounter from "./components/SimpleCounter/index-SimpleCounter.tsx"
+
 const Home = () => {
-    return (<h1>Home Page</h1>)
+    return (<SimpleCounter/>)
 }  
 
 export default Home 
