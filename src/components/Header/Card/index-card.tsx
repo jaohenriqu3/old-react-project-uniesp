@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 type CardProps = {
     title: string
     route: string

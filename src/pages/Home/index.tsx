@@ -1,4 +1,4 @@
-import SimpleCounter from "./components/SimpleCounter/index-SimpleCounter.tsx"
+import SimpleCounter from "./components/card/SimpleCounter/SimpleCounter.tsx "
 
 const Home = () => {
     return (<SimpleCounter/>)
